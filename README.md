@@ -2,7 +2,13 @@
 
 ## About Me
 
-I am a results-driven IT professional with a comprehensive background in the education sector. With hands-on experience as an ICT Coordinator at the Alternative Learning System (ALS) from 2019-2023 and currently serving as an IT Instructor at STI College Calamba, I am passionate about leveraging technology to enhance learning environments.
+An avid educator and information technology enthusiast. With a Bachelor's degree in Information Technology from AMA Computer College - Santa Cruz, I entered the dynamic world of technology in 2013. My journey in the field led me to pursue further academic excellence, and I am currently undertaking a Master's in Information Technology at De La Salle University.
+
+With a strong background in IT, I delved into the practical application of technology in education, serving as an ICT Coordinator at the Alternative Learning System from 2013 to 2019. This role allowed me to contribute significantly to integrating technology in educational settings, fostering a more inclusive and accessible learning environment.
+
+Currently, I have the privilege of imparting my knowledge and experience to bright young minds at STI College Calamba, where I am actively engaged in educating and mentoring college students. My passion for empowering the next generation through technology and education continues to drive my professional journey.
+
+Feel free to reach out to me to talk about exciting opportunities in education and technology. Let's collaborate and make a positive impact in the digital landscape together!
 
 ## 📚 Education
 - Master's in Information Technology (Ongoing) at De La Salle University Manila
@@ -11,7 +17,11 @@ I am a results-driven IT professional with a comprehensive background in the edu
 
 ## 💼 Professional Experience
 - IT Instructor at STI College Calamba (2023-Present)
-- ICT Coordinator at Alternative Learning System (2013-2019) 
+- ICT Coordinator at Alternative Learning System (2013-2019)
+
+## 📚 Certification/s
+- Certified Lean Six Sigma Yellow Belt (CLSSYB)
+- Certified Lean Six Sigma White Belt (CSSWB) 
 
 ## 🛠️ Skills
 - Programming Languages: C#, Java
@@ -31,6 +41,7 @@ I am a results-driven IT professional with a comprehensive background in the edu
 - Mobile photography, capturing diverse foods and moments
 
 ## 📫 How to Reach Me
-[LinkedIn](https://www.linkedin.com/in/brofarjoyce/)
+- [LinkedIn](https://www.linkedin.com/in/brofarjoyce/)
+- [Email](jbrofar16@gmail.com)
 
-== Feel free to explore my repositories and connect with me for any collaboration or project opportunities! ==
+
