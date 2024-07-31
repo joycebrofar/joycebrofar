@@ -11,15 +11,15 @@ Currently, I have the privilege of imparting my knowledge and experience to brig
 Feel free to reach out to me to talk about exciting opportunities in education and technology. Let's collaborate and make a positive impact in the digital landscape together!
 
 ## 📚 Education
-- Master's in Information Technology (Ongoing) at De La Salle University Manila
-- Bachelor of Science in Information Technology (2013) at AMA Computer College Santa Cruz
+- Master in Information Technology 2022-Ongoing at De La Salle University Manila
+- Bachelor of Science in Information Technology 2013 at AMA Computer College Santa Cruz
 
 
 ## 💼 Professional Experience
 - IT Instructor at STI College Calamba (2023-Present)
 - ICT Coordinator at Alternative Learning System (2013-2019)
 
-## 📚 Certification/s
+## 📜 Certification/s
 - Certified Lean Six Sigma Yellow Belt (CLSSYB)
 - Certified Lean Six Sigma White Belt (CSSWB) 
 
@@ -43,5 +43,6 @@ Feel free to reach out to me to talk about exciting opportunities in education a
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/brofarjoyce/)
 - [Email](jbrofar16@gmail.com)
+- [My RaketShip](https://www.raket.ph/brofarjoyce)
 
 
