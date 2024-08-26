@@ -19,9 +19,10 @@ Feel free to reach out to me to talk about exciting opportunities in education a
 - IT Instructor at STI College Calamba (2023-Present)
 - ICT Coordinator at Alternative Learning System (2013-2019)
 
-## 📜 Certification/s
+## 📜 Certifications and Training
 - Certified Lean Six Sigma Yellow Belt (CLSSYB)
-- Certified Lean Six Sigma White Belt (CSSWB) 
+- Certified Lean Six Sigma White Belt (CSSWB)
+- Google UX Design Specialization
 
 ## 🛠️ Skills
 - Programming Languages: C#, Java
