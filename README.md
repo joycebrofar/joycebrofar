@@ -23,7 +23,9 @@ Feel free to reach out to me to talk about exciting opportunities in education a
 ## 📜 Certifications and Training
 - Certified Lean Six Sigma Yellow Belt (CLSSYB)
 - Certified Lean Six Sigma White Belt (CSSWB)
-- Google UX Design Specialization
+- Google UX Design Specialization (2024)
+- Gemini Academy: Build your AI Literacy for Everyday Productivity (2024)
+- re:Imagine Advancing Education & Research Through Cloud Technologies On Amazon Web Services (2024)
 
 ## 🛠️ Skills
 - Programming Languages: C#, Java
