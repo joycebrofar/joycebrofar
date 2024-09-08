@@ -12,6 +12,7 @@ Feel free to reach out to me to talk about exciting opportunities in education a
 
 ## 📚 Education
 - Master in Information Technology 2022-Ongoing at De La Salle University Manila
+- Executive Diploma in Business Communication 2024 at UniAthena
 - Bachelor of Science in Information Technology 2013 at AMA Computer College Santa Cruz
 
 
