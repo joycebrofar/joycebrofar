@@ -2,13 +2,13 @@
 
 ## About Me
 
-An avid educator and information technology enthusiast. With a Bachelor's degree in Information Technology from AMA Computer College - Santa Cruz, I entered the dynamic world of technology in 2013. My journey in the field led me to pursue further academic excellence, and I am currently undertaking a Master's in Information Technology at De La Salle University.
+An enthusiastic educator and information technology advocate, I am currently pursuing a Master in Information Technology at De La Salle University, Manila, with an expected completion in 2024. Additionally, I recently earned an Executive Diploma in Business Communication from UniAthena, further enhancing my ability to bridge technology with effective communication. My academic foundation in technology was laid with a Bachelor of Science in Information Technology, which I completed in 2013 at AMA Computer College, Santa Cruz.
 
-With a strong background in IT, I delved into the practical application of technology in education, serving as an ICT Coordinator at the Alternative Learning System from 2013 to 2019. This role allowed me to contribute significantly to integrating technology in educational settings, fostering a more inclusive and accessible learning environment.
+Since 2013, I’ve been committed to the practical application of technology in educational environments. My experience as an ICT Coordinator at the Alternative Learning System from 2013 to 2019 allowed me to play a key role in creating inclusive, tech-integrated learning spaces.
 
-Currently, I have the privilege of imparting my knowledge and experience to bright young minds at STI College Calamba, where I am actively engaged in educating and mentoring college students. My passion for empowering the next generation through technology and education continues to drive my professional journey.
+Today, I have the opportunity to inspire and mentor students as a part-time College Teacher at STI College Calamba, where I specialize in Theory of Computations with Automata and Software Engineering. My passion lies in empowering future innovators through technology and education, shaping their skills to thrive in the digital world.
 
-Feel free to reach out to me to talk about exciting opportunities in education and technology. Let's collaborate and make a positive impact in the digital landscape together!
+I’m always open to connecting and collaborating on projects at the intersection of education and technology. Feel free to reach out, and let’s make a positive impact together!
 
 ## 📚 Education
 - Master in Information Technology 2022-Ongoing at De La Salle University Manila
