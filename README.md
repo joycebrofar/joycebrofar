@@ -2,7 +2,7 @@
 
 ## About Me
 
-An enthusiastic educator and information technology advocate, I am currently pursuing a Master in Information Technology at De La Salle University, Manila, with an expected completion in 2024. Additionally, I recently earned an Executive Diploma in Business Communication from UniAthena, further enhancing my ability to bridge technology with effective communication. My academic foundation in technology was laid with a Bachelor of Science in Information Technology, which I completed in 2013 at AMA Computer College, Santa Cruz.
+An enthusiastic educator and information technology advocate, I am currently pursuing a Master in Information Technology at De La Salle University, Manila, with an expected completion in 2025. Additionally, I recently earned an Executive Diploma in Business Communication from UniAthena, further enhancing my ability to bridge technology with effective communication. My academic foundation in technology was laid with a Bachelor of Science in Information Technology, which I completed in 2013 at AMA Computer College, Santa Cruz.
 
 Since 2013, I’ve been committed to the practical application of technology in educational environments. My experience as an ICT Coordinator at the Alternative Learning System from 2013 to 2019 allowed me to play a key role in creating inclusive, tech-integrated learning spaces.
 
@@ -26,6 +26,7 @@ I’m always open to connecting and collaborating on projects at the intersectio
 - Google UX Design Specialization (2024)
 - Gemini Academy: Build your AI Literacy for Everyday Productivity (2024)
 - re:Imagine Advancing Education & Research Through Cloud Technologies On Amazon Web Services (2024)
+- DECODE PH by TrendMicro (2024)
 
 ## 🛠️ Skills
 - Programming Languages: C#, Java
